@@ -28,3 +28,7 @@
 ```js
 const THRESHOLD = 50_000;
 ```
+
+## License
+
+[MIT](LICENSE) © Jittery5
